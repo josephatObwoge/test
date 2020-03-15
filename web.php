@@ -1,4 +1,4 @@
 ﻿<?php
-echo "welcome to my first test to git hub";
+echo "welcome to my first test to git hub project";
 
 ?>
