@@ -4,4 +4,5 @@ echo "welcome to my first test to git hub project";
 $username ="john";
 echo $username;
 
+if (strng)
 ?>
